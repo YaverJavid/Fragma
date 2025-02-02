@@ -1,0 +1,39 @@
+{
+  "name": "fragmahtml",
+  "version": "1.0.0",
+  "main": "fragma",
+  "bin": {
+    "fragma": "./bin/fragma.js"
+  },
+  "dependencies": {
+    "boolbase": "^1.0.0",
+    "cheerio": "^1.0.0",
+    "cheerio-select": "^2.1.0",
+    "css-select": "^5.1.0",
+    "css-what": "^6.1.0",
+    "dom-serializer": "^2.0.0",
+    "domelementtype": "^2.3.0",
+    "domhandler": "^5.0.3",
+    "domutils": "^3.2.2",
+    "encoding-sniffer": "^0.2.0",
+    "entities": "^4.5.0",
+    "htmlparser2": "^9.1.0",
+    "iconv-lite": "^0.6.3",
+    "nth-check": "^2.1.1",
+    "parse5": "^7.2.1",
+    "parse5-htmlparser2-tree-adapter": "^7.1.0",
+    "parse5-parser-stream": "^7.1.2",
+    "safer-buffer": "^2.1.2",
+    "undici": "^6.21.1",
+    "whatwg-encoding": "^3.1.1",
+    "whatwg-mimetype": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Devkit for html fragma compilation."
+}

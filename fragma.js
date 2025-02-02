@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const cheerio = require('cheerio');
 const fs = require('fs');
 const originalDir = process.cwd();
